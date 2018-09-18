@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathFuncsDll", "MathFuncsDll\MathFuncsDll.vcxproj", "{66100A89-634D-4555-993A-F04B459F9A25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyExecRefsDll", "MyExecRefsDll\MyExecRefsDll.vcxproj", "{1F41C56D-795B-46CD-915B-DB93AECD64D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RunTimeDLL", "RunTimeDLL\RunTimeDLL.vcxproj", "{2D326552-D294-47EA-846A-274246623541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66100A89-634D-4555-993A-F04B459F9A25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66100A89-634D-4555-993A-F04B459F9A25}.Debug|Win32.Build.0 = Debug|Win32
+		{66100A89-634D-4555-993A-F04B459F9A25}.Release|Win32.ActiveCfg = Release|Win32
+		{66100A89-634D-4555-993A-F04B459F9A25}.Release|Win32.Build.0 = Release|Win32
+		{1F41C56D-795B-46CD-915B-DB93AECD64D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F41C56D-795B-46CD-915B-DB93AECD64D5}.Debug|Win32.Build.0 = Debug|Win32
+		{1F41C56D-795B-46CD-915B-DB93AECD64D5}.Release|Win32.ActiveCfg = Release|Win32
+		{1F41C56D-795B-46CD-915B-DB93AECD64D5}.Release|Win32.Build.0 = Release|Win32
+		{2D326552-D294-47EA-846A-274246623541}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D326552-D294-47EA-846A-274246623541}.Debug|Win32.Build.0 = Debug|Win32
+		{2D326552-D294-47EA-846A-274246623541}.Release|Win32.ActiveCfg = Release|Win32
+		{2D326552-D294-47EA-846A-274246623541}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

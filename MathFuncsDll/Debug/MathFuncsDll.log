@@ -1,0 +1,16 @@
+﻿Build started 11/8/2016 00:10:01.
+     1>Project "F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\MathFuncsDll\MathFuncsDll.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MATHFUNCSDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MathFuncsDll.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MathFuncsDll.cpp
+         MathFuncsDll.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\MathFuncsDll.obj
+         Debug\stdafx.obj
+            Creating library F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.lib and object F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.exp
+         MathFuncsDll.vcxproj -> F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\Debug\MathFuncsDll.dll
+     1>Done Building Project "F:\Users\Nicos\Libraries\Software Development\C++\DLLs\ExampleDLLs\MathFuncsDll\MathFuncsDll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45
